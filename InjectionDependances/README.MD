@@ -3,7 +3,7 @@
 Ces exemples illustrent l'utilisation des fonctionnalités de base d'injection de dépendances en Java à l'aide des cadriciels Spring et Google Guice. Les exemples
 sont tirés du livre [Beginning Spring 2 Framework](http://library.books24x7.com/book/id_22830/toc.asp?bookid=22830) (accès ITpro requis).
 
-##Pré-requis
+## Pré-requis
 
 Les exemples tels que livrés ici sont autonome. Pour que ces applications fonctionnent:
   - un compilateur java doit être sur le chemin d'accès ("path");
