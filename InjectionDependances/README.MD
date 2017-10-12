@@ -5,14 +5,13 @@ sont tirés du livre [Beginning Spring 2 Framework](http://library.books24x7.com
 
 ## Pré-requis
 
-Les exemples tels que livrés ici sont autonome. Pour que ces applications fonctionnent:
-  - un compilateur java doit être sur le chemin d'accès ("path");
-  - l'outil Maven doit être sur le chemin d'accès ("path");
+Les exemples tels que livrés ici sont autonomes. Pour que ces applications fonctionnent:
+  * un compilateur java doit être sur le chemin d'accès ("path");
+  * l'outil Maven doit être sur le chemin d'accès ("path");
 
 ## Pour exécuter les exemples à partir d'une console:
-  - se déplacer à l'endroit où se trouvent les présentes directives;
-  - lancer `*mvn compile*` pour compiler toutes les variantes de l'exemple;
-  - se déplacer dans chacun des sous-répertoires et lancer `*mvn exec:java
-    -Dexec.args="4 11"*`
+  * se déplacer à l'endroit où se trouvent les présentes directives;
+  * lancer `**mvn compile**` pour compiler toutes les variantes de l'exemple;
+  * se déplacer dans chacun des sous-répertoires et lancer `**mvn exec:java -Dexec.args="4 11"**`
 
 Pour les détails de ce tutoriel, consultez le document d'origine.
