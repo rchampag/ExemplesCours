@@ -1,0 +1,21 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>ca.etsmtl.log430.exemples</groupId>
+    <artifactId>tdd</artifactId>
+    <version>1.0.0</version>
+    <packaging>pom</packaging>
+
+    <parent>
+        <groupId>ca.etsmtl.log430</groupId>
+        <artifactId>exemples</artifactId>
+        <version>1.0.0</version>
+    </parent>
+
+    <modules>
+        <module>classical</module>
+        <module>mockist</module>
+    </modules>
+
+</project>
