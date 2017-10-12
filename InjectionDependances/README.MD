@@ -11,7 +11,7 @@ Les exemples tels que livrés ici sont autonomes. Pour que ces applications fonc
 
 ## Pour exécuter les exemples à partir d'une console:
   * se déplacer à l'endroit où se trouvent les présentes directives;
-  * lancer `**mvn compile**` pour compiler toutes les variantes de l'exemple;
-  * se déplacer dans chacun des sous-répertoires et lancer `**mvn exec:java -Dexec.args="4 11"**`
+  * lancer `mvn compile` pour compiler toutes les variantes de l'exemple;
+  * se déplacer dans chacun des sous-répertoires et lancer `mvn exec:java -Dexec.args="4 11"`
 
 Pour les détails de ce tutoriel, consultez le document d'origine.
