@@ -16,7 +16,7 @@
 	<bean id="add" class="com.wrox.begspring.OpAdd" />
 
 	<bean id="opsbean" class="com.wrox.begspring.Calculate">
-		<property name="ops" ref="multiply" />
+		<property name="ops" ref="add" />
 		<property name="writer" ref="screen" />
 	</bean>
 

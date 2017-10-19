@@ -23,8 +23,11 @@ public class OrderInteractionTester {
         order = new Order(TALISKER, 50);
 
         new Expectations() {{
-            warehouse.hasInventory(TALISKER, 50); times=1; result=true;
-            warehouse.remove(TALISKER, 50); times=1;
+            warehouse.hasInventory(TALISKER, 50);
+            times=1;
+            result=true;
+            warehouse.remove(TALISKER, 50);
+            times=1;
         }};
 
         order.fill(warehouse);
@@ -37,7 +40,9 @@ public class OrderInteractionTester {
         order = new Order(TALISKER, 51);
 
         new Expectations() {{
-            warehouse.hasInventory(anyString, anyInt); times=1; result=false;
+            warehouse.hasInventory(anyString, anyInt);
+            times=1;
+            result=false;
         }};
 
         order.fill(warehouse);

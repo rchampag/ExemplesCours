@@ -12,7 +12,8 @@ public class Order {
 
     public void fill(Warehouse warehouse) {
         if (warehouse != null) {
-            isOrderFilled = warehouse.hasInventory(description, quantity);
+            isOrderFilled = warehouse.hasInventory(description,
+                    quantity);
             if(isOrderFilled)
                 warehouse.remove(description, quantity);
         }
