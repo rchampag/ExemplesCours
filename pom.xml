@@ -20,6 +20,7 @@
     <modules>
         <module>ArchitectureEvenementielles</module>
         <module>InjectionDependances</module>
+        <module>intro-dsm</module>
         <module>tdd</module>
         <module>testdoubles</module>
     </modules>

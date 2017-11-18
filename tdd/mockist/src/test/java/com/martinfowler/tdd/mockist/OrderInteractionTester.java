@@ -24,7 +24,7 @@ public class OrderInteractionTester {
 
         new Expectations() {{
             warehouse.hasInventory(TALISKER, 50);
-            times=1;
+            times=2;
             result=true;
             warehouse.remove(TALISKER, 50);
             times=1;
