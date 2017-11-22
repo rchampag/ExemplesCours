@@ -2,7 +2,7 @@
 
 Ce projet sert d'introduction aux _Dependency Structure Matrix_ (DSM). Il s'agit d'une application Java qui permet de faire
 divers calculs associés à un emprunt dans une institution financière. L'application de départ et sa documentation se trouvent au
-[https://sourceforge.net/projects/jbiloan/]().
+[https://sourceforge.net/projects/jbiloan/](https://sourceforge.net/projects/jbiloan/).
 
 Le code source de départ a été converti en projet Maven. Aucune autre modification n'a été apportée au projet d'origine.
   
