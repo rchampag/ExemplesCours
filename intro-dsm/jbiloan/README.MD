@@ -42,7 +42,7 @@ Il y a trois options possibles pour exécuter ce système:
 
 * [Page wikipedia](https://en.wikipedia.org/wiki/Design_structure_matrix) sur les DSM
 * Documentation du [dsm-maven-plugin](https://github.com/sevntu-checkstyle/dsm-maven-plugin)
-* [Vidéo explicative](https://www.youtube.com/watch?v=4cL4xoy7cMc&list=PLLNGJX9z7bBrKL5Q2t74qaonX6nTPaj2s) sur comment lire une DSM dans Lattix
+* [Vidéo explicative](https://www.youtube.com/watch?v=4cL4xoy7cMc&list=PLLNGJX9z7bBrKL5Q2t74qaonX6nTPaj2s) sur comment lire une DSM dans [Lattix](http://lattix.com/)
 * Documentation Intellij IDEA [DSM tool window](https://www.jetbrains.com/help/idea/dsm-tool-window.html)
 * Documentation Intellij IDEA [dependency viewer](https://www.jetbrains.com/help/idea/dependency-viewer.html)
 * Explications sur les DSM [par Ndepend](https://www.ndepend.com/docs/dependency-structure-matrix-dsm)
