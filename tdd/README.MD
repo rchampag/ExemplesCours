@@ -6,7 +6,7 @@ This example specifically concentrates on comparing state-based and behavior-bas
 
 This version of the example uses [JMockit](http://jmockit.github.io/) as the mocking tool. A different mocking tool is used in Fowler's original description.
 
-* The classical folder contains a classical stae-based unit test
-* The mockist folder contains the mock-based version of the same test
+* The classical folder contains a classical state-based unit test
+* The mockist folder contains the behavior-based (mocks) version of the same test
 
 Both tests attempt to reproduce as closely as possible the concepts described in the article.
