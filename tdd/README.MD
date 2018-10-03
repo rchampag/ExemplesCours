@@ -1,4 +1,4 @@
-# Comparison of classical unit tests and "mockist" unit tests
+# Comparison of "classical" and "mockist" unit tests
 
 This is an implementation of an example in Martin Fowler's article [Mocks Arent't Stubs](https://martinfowler.com/articles/mocksArentStubs.html).
 
